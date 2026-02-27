@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="build/icon.png" alt="Slashscreen" width="128" height="128">
-</p>
+
 
 <h1 align="center">Slashscreen</h1>
 
